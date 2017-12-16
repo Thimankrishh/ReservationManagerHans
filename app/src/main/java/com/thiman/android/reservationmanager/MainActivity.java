@@ -3,17 +3,15 @@ package com.thiman.android.reservationmanager;
 import android.app.Activity;
 import android.widget.TextView;
 
-        import com.thiman.android.reservationmanager.helper.SQLiteHandler;
+import com.thiman.android.reservationmanager.helper.SQLiteHandler;
         import com.thiman.android.reservationmanager.helper.SessionManager;
 
         import java.util.HashMap;
 
-        import android.app.Activity;
-        import android.content.Intent;
+import android.content.Intent;
         import android.os.Bundle;
         import android.view.View;
         import android.widget.Button;
-        import android.widget.TextView;
 
 import com.thiman.android.reservationmanager.activity.LoginActivity;
 
@@ -79,4 +77,7 @@ public class MainActivity extends Activity {
         startActivity(intent);
         finish();
     }
+
+
+
 }

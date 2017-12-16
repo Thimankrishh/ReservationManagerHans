@@ -8,8 +8,8 @@ package com.thiman.android.reservationmanager.app;
 
 public class AppConfig {
     // Server user login url
-    public static String URL_LOGIN = "https://long-drawn-collisio.000webhostapp.com/android_api/login.php";
+    public static String URL_LOGIN = "https://mysoftware15.000webhostapp.com/Manager_login/login.php";
 
     // Server user register url
-    public static String URL_REGISTER = "https://long-drawn-collisio.000webhostapp.com/android_api/register.php";
+    public static String URL_REGISTER = "https://mysoftware15.000webhostapp.com/Manager_login/register.php";
 }
